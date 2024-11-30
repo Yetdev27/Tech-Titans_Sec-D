@@ -1,6 +1,7 @@
 ## Automobile Fuel Range Calculator
 
 Automobile Fuel Range Calculator problem analysis, pseudocode and flowchart.
+
 --- 
 ## Problem Analysis
 
@@ -12,8 +13,6 @@ Automobile Fuel Range Calculator problem analysis, pseudocode and flowchart.
     - Calculate range using range(total miles) = gallons * mpg
 3. **Output:**
     - Distance the automobile can travel on a full tank, measured in miles.
-
-
 
 ---
 ## Pseudocode
