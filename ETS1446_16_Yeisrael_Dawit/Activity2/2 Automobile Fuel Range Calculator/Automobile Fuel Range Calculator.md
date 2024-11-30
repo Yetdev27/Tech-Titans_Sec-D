@@ -1,7 +1,7 @@
 # Automobile Fuel Range Calculator
 
 Automobile Fuel Range Calculator problem analysis, pseudocode and flowchart.
----
+--- 
 ## Problem Analysis
 
 1. **Input:**
