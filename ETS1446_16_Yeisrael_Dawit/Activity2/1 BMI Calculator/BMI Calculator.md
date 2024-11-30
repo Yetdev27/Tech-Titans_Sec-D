@@ -45,7 +45,7 @@ This document provide the BMI Calculator program problem analysis, pseudocode an
 
 
 ```mermaid
-graph LR
+graph TD
    
     start([Start]) --> inputdata[/Read the number of people as usernum/]
     inputdata --> initializecounter[Declare and initialize counter i=1]
